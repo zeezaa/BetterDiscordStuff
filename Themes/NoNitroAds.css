@@ -1,9 +1,9 @@
-/* Hide Nitro tab, Web only currently */
+/* Hide Nitro tab */
 a[href="/store"] {
 	display: none;
 }
 
-/* Hide Shop tab, Web only currently */
+/* Hide Shop tab */
 a[href="/shop"] {
 	display: none;
 }
